@@ -1,4 +1,5 @@
-/* Big parts*/
+/*Big parts*/
+
 html{
 font:16px Helvetica, sans-serif;
 font-weight:normal;
@@ -58,6 +59,7 @@ padding-left:18px;
 padding-bottom:1em;
 }
 
+
 /*Headings & Lines*/
 
 h1 {
@@ -90,6 +92,7 @@ padding:10px 10px 0 0;
 
 
 /*Formatting*/
+
 .big {
 font-size:1.1em;
 }
@@ -123,9 +126,14 @@ font-variant:small-caps;
 font-family:Palatino;
 }
 
+.small {
+font-size:.9em;
+}
+
 .smaller {
 font-size:.8em;
 }
+
 
 /*Links*/
 
@@ -150,8 +158,6 @@ text-decoration:underline;
 
 
 /*Mobile*/
-
-}
 
 /* iPhone 5s: More than or equal to 320px */ 
 @media only screen and (min-width:320px) {
