@@ -183,6 +183,12 @@ width:93%;
 margin-left:auto;
 margin-right:auto;
 }
+h1 {
+font-size:1.9em;
+}
+h2 {
+font-size:1.75em;
+}
 }
 
 /* iPad Mini: More than or equal to 703px */
@@ -202,11 +208,5 @@ max-width:40em;
 margin-left:auto;
 margin-right:auto;
 font-size:1em;
-}
-h1 {
-font-size:1.9em;
-}
-h2 {
-font-size:1.75em;
 }
 }
