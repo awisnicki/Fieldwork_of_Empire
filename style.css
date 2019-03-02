@@ -168,12 +168,9 @@ width:100%;
 margin-left:auto;
 margin-right:auto;
 }
-
 h1 {
 font-size:1.7em;
-font-family:Verdana;
 }
-
 h2 {
 font-size:1.55em;
 }
@@ -205,5 +202,11 @@ max-width:40em;
 margin-left:auto;
 margin-right:auto;
 font-size:1em;
+}
+h1 {
+font-size:1.9em;
+}
+h2 {
+font-size:1.75em;
 }
 }
