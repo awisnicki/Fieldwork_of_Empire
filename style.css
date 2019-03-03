@@ -1,3 +1,10 @@
+/*CSS File for Fieldwork of Empire (https://awisnicki.github.io/fieldwork_of_empire/)*/
+
+/*Created by Adrian S. Wisnicki*/
+
+/* The CSS code in this file is released under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license (https://creativecommons.org/licenses/by-nc/4.0/). Please feel free to reuse the code in the file, just be sure to attribute it properly and publicly on your site. */
+
+
 /*Big parts*/
 
 html{
@@ -56,7 +63,7 @@ width:100%;
 }
 
 .image-border {
-border:1px solid #000000;
+border:1px solid gray;
 }
 
 ul {
