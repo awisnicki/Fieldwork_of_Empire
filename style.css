@@ -76,14 +76,14 @@ padding-bottom:1em;
  /* Navbar container */
 .navbar {
 background-color:white;
-margin:-10px 0;
 overflow:hidden;
 }
 
 .navbar ul {
 text-align:center;
 list-style:none;
-padding:0;
+padding:5px 0;
+margin:0;
 }
 
 .navbar li {
@@ -96,8 +96,11 @@ color:black;
 font-size:1.2em;
 font-weight:bold;
 text-decoration:none;
-float:left;
 padding:10px 10px;
+}
+
+.navbar, .dropdown {
+display:inline;
 }
 
 /* The dropdown container */
@@ -281,7 +284,7 @@ h1 {
 font-size:1.7em;
 }
 h2 {
-font-size:1.55em;
+font-size:1.50em;
 }
 }
 
