@@ -218,7 +218,6 @@ font-weight:bold;
 text-align:center;
 }
 
-
 .italic {
 font-style:italic;
 }
@@ -261,13 +260,12 @@ text-decoration:underline;
 }*/
 
 a, a:visited {
-color:#00a8e1
+color:#00a8e1;
 text-decoration:none;
 }
 
 a:hover {
 color:#e4524b;
-
 }
 
 
