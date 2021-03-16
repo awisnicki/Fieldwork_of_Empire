@@ -69,6 +69,10 @@ padding-left:18px;
 padding-bottom:1em;
 }
 
+.reviews ul{
+  padding-bottom: 2em;
+}
+
 
 /*Dropdown Menu*/
 /*modeled on: https://www.w3schools.com/howto/howto_css_dropdown_navbar.asp*/
@@ -250,15 +254,6 @@ text-decoration:underline;
 
 /*Links*/
 
-/*.links a {
-color:#191716;
-text-decoration:none;
-}
-
-.links a:hover {
-text-decoration:underline;
-}*/
-
 a, a:visited {
 color:#00a8e1;
 text-decoration:none;
@@ -290,8 +285,6 @@ font-size:1.50em;
 @media only screen and (min-width:414px) {
 body {
 width:93%;
-margin-left:auto;
-margin-right:auto;
 }
 h1 {
 font-size:1.9em;
@@ -305,8 +298,6 @@ font-size:1.75em;
 @media only screen and (min-width:703px) {
 body {
 width:85%;
-margin-left:auto;
-margin-right:auto;
 }
 }
 
@@ -315,8 +306,6 @@ margin-right:auto;
 body {
 width:80%;
 max-width:40em;
-margin-left:auto;
-margin-right:auto;
 font-size:1em;
 }
 }
